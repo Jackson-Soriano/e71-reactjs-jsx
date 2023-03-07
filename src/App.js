@@ -1,5 +1,6 @@
 //functional component
 const App = ()=>{
-    return <h1> Welcome Kodebrewers-React</h1>
+    const greetings=<h1> Welcome Kodebrewers-React</h1>;
+    return greetings;
 };
 export default App;
